@@ -1,0 +1,74 @@
+div{
+position: absolute;
+}
+div.bluebar{
+background-color:#3b5998 ;height:50px; top:0px; left: 0px; width: 1450px;
+}
+.logo{
+top:9px;
+left: 90px;
+}
+div.Search{
+top: 10px; left: 125px;
+}
+div.Search input{
+height: 25px;
+width: 455px;
+}
+.Button1{
+left: 580px;
+top: 10px
+}
+.Button1 button{
+    background-color:white;
+
+}
+
+div.Button2{
+left: 800px;
+top: 10px;
+height: 15px;
+}
+.name{
+background-color: #3b5998;
+color: white;
+font: Helvetica;
+}
+button{
+    background-color: #3b5998;
+    border: none;
+    color: white;
+    text-align: centre;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+div.Button2_1{
+left: 840px;
+top: 13px
+}
+.Button3{
+left: 930px;
+top: 13px;
+}
+.Button4{
+left:999px;
+top: 12px;
+}
+.Button5{
+left:1040px;
+top: 12px;
+}
+.Button6{
+left:1080px;
+top: 12px;
+}
+.Button7{
+left:1130px;
+top: 10px;
+}
+.Button8{
+left:1170px;
+top: 19px;
+}
