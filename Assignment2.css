@@ -1,0 +1,158 @@
+body{
+background-image: url("https://janelou.files.wordpress.com/2012/08/412497_10151170656248689_393127746_o.jpg");
+background-color: black;
+background-repeat: no-repeat;
+background-size: cover;
+font-family: 'Raleway', sans-serif;
+}
+.whole{
+border: 0px;
+height: 90%;
+font-size: 30;
+color:black;
+justify-content: center;
+margin: 35px 35px;
+}
+
+.e:hover{
+background-color: white;
+}
+
+@media(min-width:768px)
+{
+	.e{
+		display: block;
+		width: 100%;
+	}
+}
+
+
+.first{
+display: flex; flex-wrap: wrap;
+border: 0px;
+font-size: 30;
+justify-content: center;
+align-items: center;
+background:rgba(255, 255, 255, 0.7);
+
+}
+
+.Ele11{
+flex-grow:1;
+text-align: center;
+border: 0px;
+height: 12.3%;
+padding-top: 4.5%;
+}
+.Ele12{
+flex:1;
+text-align: center;
+border: 0px;
+height: 12.3%;
+padding-top: 4.5%;
+}
+.Ele13{
+flex:1;
+text-align: center;
+border: 0px;
+height: 12.3%;
+padding-top: 4.5%;
+}
+.Ele14{
+flex:1;
+text-align: center;
+border: 0px;
+height: 12.3%;
+padding-top: 4.5%;
+}
+
+
+.second{
+display: flex; flex-wrap: wrap;
+border: 0px;
+font-size: 30;
+align-items: center;
+justify-content: center;
+background:rgba(255, 255, 255, 0.7);
+
+}
+.Ele21{
+flex:1;
+background:#16ceef;
+text-align: center;
+border: 0px;
+height: 12.3%;
+padding-top: 4.5%;
+}
+.Ele22{
+flex:1;
+text-align: center;
+border: 0px;
+height: 12.3%;
+padding-top: 4.5%;
+}
+
+
+.Ele31{
+display: flex; flex-wrap: wrap;
+border: 0px;
+font-size: 30;
+height: 18.6%;
+text-align: center;
+justify-content: center;
+align-items: center;
+background:rgba(255, 255, 255, 0.7);
+
+}
+
+
+.Ele41{
+display: flex; flex-wrap: wrap;
+border: 0px;
+text-align: center;
+height: 18.6%;
+justify-content: center;
+align-items: center;
+background-color: #a9ed16;
+}
+
+.fifth{
+display: flex; flex-wrap: wrap;
+border: 0px;
+text-align: center;
+font-size: 30;
+justify-content: center;
+align-items: center;
+background:rgba(255, 255, 255, 0.7);
+
+}
+.Ele51{
+flex-grow:1;
+text-align: center;
+border: 0px;
+height: 12.3%;
+padding-top: 4.5%;
+}
+.Ele52{
+flex-grow:1;
+text-align: center;
+border: 0px;
+height: 12.3%;
+padding-top: 4.5%;
+}
+/*
+.Ele53{
+flex:1;
+text-align: center;
+border: 0px;
+height: 12.3%;
+padding-top: 4.5%;
+} */
+
+strong{
+color:#5624c0;
+}
+
+
+
+
