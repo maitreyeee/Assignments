@@ -1,0 +1,60 @@
+body{
+text-align: center;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.Box {
+    display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	background-color: rgba(0,0,0,0.1); 
+}
+
+.InBox{
+	background-color:white;
+	background-image: url("https://theknow.denverpost.com/wp-content/uploads/2018/01/Peak_Awareness_Capitol_Peak_2HR4139-1080x720.jpg");
+	text-align: center;
+	box-shadow: 0 2px 20px 2px grey;
+	border-radius: 15px;
+	margin: 10% auto;
+	width: 50%;
+	height: 45%;
+	padding: 60px;
+}
+
+.Cbtn {
+border: none;
+color:white;
+background-color: black;
+padding: 20px 40px;
+margin: 20% auto;
+}
+
+.op{
+border: none;
+color:white;
+background-color: black;
+padding: 20px 40px;
+margin: 20% auto;
+}
+
+.L1{
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+padding: 30px;
+font-size: 40px;
+
+}
+
+.L2{
+border-bottom-right-radius: 10px;
+padding: 30px;
+border-bottom-left-radius: 10px;
+font-size: 20px;
+color: BLACK;
+}
